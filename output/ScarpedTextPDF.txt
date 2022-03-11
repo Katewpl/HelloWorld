@@ -1,0 +1,394 @@
+BSH Embraces
+Robotic Process
+Automation
+and Accelerates
+Digitalization
+With the UiPath
+Platform
+
+Ayşe Kaptanoğlu, Research Manager, IDC Turkey
+October 2021
+
+Sponsored byIDC OPINION
+
+Technological advancements have changed the way we work over
+recent decades, and organizations have reformed themselves in the
+process. So why is this time different? Why has work transformation
+— or the ‘Future of Work’ — become such a disruptive force that
+is altering corporate cultures, augmenting stakeholder roles, and
+changing how business is conducted? And why are organizations
+struggling to support and adjust to the new work experience?
+The 21st century economy requires workers to operate as dynamic
+and reconfigurable teams that can quickly adapt to new business
+demands and market requirements at any time and from any
+physical location. The COVID-19 pandemic has clearly highlighted
+this necessity. As organizations accelerate and expand their
+digital transformation (DX) initiatives, traditional work models will
+prove to be deficient in terms of agility, adaptability, and scalability.
+Moreover, employees will start to focus on higher-value activities
+as they increasingly work side by side with ‘digital coworkers’. The
+Future of Work is about the rise of the human as the new driver
+of value — with skills such as imagination, creativity, and empathy
+gaining prominence. This human-centeredness requires entirely
+new work environments, organizational structures, and metrics for
+success.
+In this context, robotic process automation (RPA) solutions are vital
+to the success of any company’s DX journey. RPA incorporates
+digital workers — essentially, these are software robots that, when
+initiated at predefined times or triggered by an external event,
+can automatically execute deterministic, repetitive, standardized,
+high-volume, and rules-based tasks by capturing and analyzing
+structured data and working across several interoperable systems
+(such as applications). The term RPA is also used by all industries to
+point to the ‘digital workforce’.
+To gain insights into how leading companies are improving their
+automation processes, increasing productivity, and minimizing
+operational risks via the use of RPA solutions, IDC recently spoke
+with the service manager of  IA (Intelligent Automation) department
+at BSH. The discussion centered on how BSH is using the UiPath
+Platform to meet its rapidly evolving business needs.
+
+2IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+IN THIS
+BUYER
+CASE
+STUDY
+
+This IDC Buyer Case Study examines the key reasons
+BSH chose UiPath to address its business requirements.
+The study will show how organizations are seeking to
+automate their centralized and distributed processes can
+follow the example set by BSH. It will conclude by providing
+practical guidance to companies aiming to bolster their
+operational efficiency and employee satisfaction via end-
+to-end automation.
+
+3IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+SITUATION
+OVERVIEW
+
+ORGANIZATION
+OVERVIEW
+
+BSH
+
+BSH Hausgeräte is one of the world’s leading home
+appliance manufacturers. The company’s portfolio
+includes globally recognized brands such as Bosch,
+Siemens, Gaggenau, and Neff, as well as Turkish
+brands like Thermador, Balay, Profilo, Constructa,
+Pitsos, and Coldex.
+Founded in 1967 as a joint venture between Robert
+Bosch (based in Stuttgart) and Siemens (Munich), BSH
+has been 100% owned by Bosch Group since January
+2015. Over its history, which spans more than 50 years,
+BSH has grown from a German exporter into one of
+the world’s leading home appliance manufacturers.
+With around 58,000 employees worldwide, BSH’s
+turnover in 2019 was around USD 14.75 billion.
+BSH uses 40 factories located around the world to
+produce its entire range of modern home appliances.
+The product portfolio includes cookers, ovens and
+extractor hoods, dishwashers, washers and dryers,
+fridges, and freezers, as well as vacuum cleaners,
+coffee machines, and food processors.
+In order to meet constantly evolving consumer needs,
+BSH is seeking to transform itself from a supplier
+of home appliances into a company that offers
+personalized digital functions, services, and content
+(in addition to home appliances). For example, BSH’s
+new cross-brand Home Connect platform supports
+its rapidly growing ecosystem of connected home
+appliances and consumer-centric services.
+
+4IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+SITUATION
+OVERVIEW
+
+CHALLENGES
+AND SOLUTIONS
+
+To stay competitive over the long term, industrial
+machinery manufacturers need to ensure that they stay
+relevant to their customers while generating additional
+revenue streams. Digital platform strategies can play a
+major role in this respect as they help manufacturers
+differentiate their products. This differentiation can
+be achieved by providing customers with relevant
+value-added and data-driven solutions for connected
+industrial machinery assets. Moreover, digital platforms
+can include additional sales channels that allow
+industrial manufacturers to boost sales of spare parts
+or enhance the uptake of after-sales services.
+According to a recent CIO survey conducted by IDC,
+54% of organizations in Turkey have accelerated or
+brought forward their digital road maps by almost one
+year. Automation will be key to achieving these new
+DX priorities as it empowers employees and allows
+line-of-business leaders to focus on more strategic
+objectives instead of spending time on mundane,
+repetitive tasks. A December 2020 survey conducted
+by IDC revealed that 70% of organizations in Turkey
+will start investing in RPA or significantly increase their
+spending on RPA over the next 12 months.
+As a company, BSH has been carrying out numerous
+projects during its DX journey that have boosted
+the ROI of different internal functions. End-to-end
+intelligent automation is one project within this DX
+journey that will boot BSH’s operational efficiency and
+employee satisfaction levels by removing repetitive,
+low value tasks from workers’ daily schedules.
+BSH started its automation journey activities with one
+center of excellence in Istanbul in 2019. The CoE
+is responsible for the platform management, RPA
+development and raising awareness on intelligent
+automation. Later, the development capability has
+grown outside of the CoE by introducing local
+development hubs which comprise of seasoned
+citizen developers who are willing to develop RPA
+for all the departments in their locations. There
+are five local development hubs which develop
+per respective location and the CoE covering the
+rest globally. Moreover, there are more than 100
+automated processes, 75 developers, 65 of which are
+citizen developers working outside of the CoE. Finally,
+software robots have been working around 4,000
+hours monthly to execute all the automation.
+
+5IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+BSH used the Teamcenter product life cycle management
+(PLM) application that made use of several technical drawing
+and documents (such as those related to product data,
+engineering change orders, material, and release/sampling
+processes). The PLM application also utilized data-exchange
+documents (called RFx) and standard BSH documents (such
+as user manuals, specifications, and sample reports). This
+application retains and shares product information, allowing
+product life cycles to be monitored. BSH chiefly sought
+out an RPA solution to prevent users from making errors
+in manual processes, eliminate organizational errors, and
+ensure regular reporting.
+Teamcenter had a unique user interface that was difficult to
+navigate. At the same time, the processes of the different
+business units associated with Teamcenter were not
+sufficiently understood and did not adhere to pre-set rules/
+workflows. For these reasons, it was necessary to review and
+define the working methods and processes used by business
+units throughout the RPA project. The main objectives of the
+project were to depersonalize all processes and prevent
+them from being prone to errors. Reducing the burdensome
+day-to-day tasks of employees was another key goal.
+BSH conducted extensive research and held one-on-
+one interviews to find the ‘best-fit’ solution provider. BSH
+also hosted meetings with different companies that had
+undertaken similar RPA projects. At the end of these
+discussions, BSH decided to work with NTT Data as a
+solution partner and UiPath as a technology provider, as
+both companies provided the most appropriate solutions
+and support. Their knowledge of BSH’s business processes,
+having already delivered successful projects for the
+company in the past, was also important. Main criteria for
+UiPath’s selection were the human emulation capabilities
+supported by its computer vision technology and ease of
+use for its development environment to support faster path
+to production.
+Following the implementation of the UiPath RPA solution in
+2019, BSH was able to automate numerous processes (such
+as reminding users of assigned tasks, tracking delay times
+with suppliers and reminding relevant purchasing officers
+of the same, closing tasks with completed procurement
+processes, and updating material release processes on
+SAP). Moreover, BSH’s Çerkezköy team helped execute
+the first RPA project within the company. This created a
+very productive environment and provided team members
+with experience for further RPA projects. BSH will find that
+determining and developing business processes and
+strategies will be much easier and more effective in future
+projects.
+
+6IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+RESULTS
+
+BSH garnered many commercial benefits from the UiPath solution. For example, the company
+was previously unable to remind specific users of pending tasks. In addition, automation allowed
+many new reporting processes to be implemented. Better and more accurate definitions of BSH
+business processes were among the other unexpected positive outcomes. The value delivered
+by UiPath was more clearly observed when the project went live. Thanks to this solution, an
+average of 3,000 working hours are saved each year only from this one process in BSH total of
+around 100 processes  working in BSH UiPath environment.
+The UiPath end-to-end automation platform has delivered several management and significant
+strategic advantages. Most importantly, BSH became the first company to carry out an RPA
+project of this size on the Teamcenter application (this application is used by many different
+organizations around the world). This project has helped BSH achieve positive results for
+Teamcenter-related processes much earlier than its competitors.
+In addition, UiPath enabled BSH to increase its operational performance. Better management
+of processes, especially those linked with suppliers, led to financial and operational gains.
+For example, prior to UiPath, tracking the status of many samples required a lot of email and
+phone traffic. After the project implementation, returns that used to take days accelerated, and
+production losses decreased. In terms of efficiency, the possibilities of daily human error were
+eliminated and the reports submitted to management became more effective. An RPA use case
+delivered in the call center saved 8,000 working hours of agents yearly in just one location.
+Thus, BSH employees were able to focus more on productive workloads as they no longer
+needed to carry out repetitive tasks.
+The UiPath environment, which is a concrete example of ‘no code/low code’ practices in
+general, is considered one of the most important applications at BSH. This implementation
+allows users to automate simple-but-time-consuming daily processes without the need for deep
+coding knowledge. As a result, daily routine work will be replaced by creative and innovative
+tasks. Moreover, the project will be rolled out in other BSH locations and factories, especially in
+Çerkezköy.
+
+7IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+BSH’s RPA organization has established a competence center, and its client node/citizen
+developer sub-units will act according to defined workflows/rules. Therefore, RPA practices will
+create accessible environments, even for the smallest business unit. This will enable employees
+to do their jobs more efficiently and attract the attention of other BSH departments that have not
+yet internally employed RPA.
+Many BSH processes that were previously created and managed by people are now free of
+errors and delays. In particular, the BSH management team can obtain many easily accessible
+reports that enable them to follow workflows. BSH has claimed that teamwork — as well as the
+willingness to deal with challenges — is the most important goal in such projects. This project
+revealed that humans are the most essential part of any enterprise’s digital success.
+
+“The UiPath Platform has enabled BSH’s business processes to be redefined in a more
+effective way. This was the first time RPA was rolled out on a complex platform such as
+Teamcenter, and it will allow our employees to move away from routine jobs and work
+in a more innovative way. This will definitely bring improved quality and performance
+to our business in general.”
+— Berke Menekli, VP IT REM, B/S/H
+
+8IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+ESSENTIAL
+GUIDANCE
+
+RPA holds great potential for companies with large-scale operations that are seeking to
+achieve operational excellence and boost productivity. RPA is a critical component of
+DX and plays a key role in automating tasks as well as entire business processes and
+workflows. To optimize the results from RPA projects, IDC offers the following guidance:
+
+Take an Agile Approach to RPA Implementations: Organizations should start small and take a
+measured and phased adoption approach to avoid costly and lengthy deployments. By using a
+business-led and outcome-based approach that scales RPA across different use cases, workers
+can embrace changes at their own pace without undue duress. Organizations need to determine
+what their current and future business needs are and identify exactly what they want to achieve
+from any RPA implementation.
+Make RPA and Intelligent Automation Part of the Organization’s DX Initiatives: The effects of
+the COVID-19 pandemic will further accelerate the adoption of RPA and intelligent automation as
+many organizations are now looking to ensure business continuity and resiliency via automation.
+Intelligent automation will be one of the key technologies that will propel organizations through
+their DX journeys. Organizations will invest significantly in automation to improve business
+performance and scalability in these unprecedented times. Today’s organizations want to select
+different deployment models that suit their needs and ensure that those models allow for the
+consistent building, testing, implementation, and management of automated solutions. RPA has
+often been cited as the essential first step toward automation, but it could be more accurately
+described as part of a continuum of technology-enabled initiatives that bring intelligence into
+the automation of business processes.
+
+9IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+Secure the Ownership of RPA Projects Within Each Business and IT Domain: RPA projects
+are usually initiated by lines of business rather than IT, which means that internal workforce
+resistance can be a critical barrier to fast RPA adoption. Organizations should therefore involve
+their IT leadership teams from the outset; they should seek their input as business cases are
+defined and suitable vendors are selected. IT leaders should also be reassured about the
+business benefits of an RPA project, particularly as it can positively impact their IT workloads.
+Their involvement is also necessary to scale up RPA as an enterprise-wide strategic initiative. In
+every DX project, setting up the right organizational structure is as important as strategy, budget,
+and vision. A DX project that does not include employees in the transformation process has no
+chance of being successful.
+Seek to Incorporate AI Technologies: Organizations need to find out how humans and software
+robots — the hybrid workforce — can achieve greater outcomes together. It is worth noting,
+however, that not all process automation initiatives require the use of AI. AI must be considered
+wherever it can elevate the capacity of automation. Organizations seeking to build process
+automation capabilities should consider the entire automation continuum, including solutions
+based on self-learning and self-healing systems.
+Ensure Selection of the Right Partner and Solution: Business leaders should think long term by
+future proofing the solutions that are being scaled across their organizations and through different
+functional departments. They should also ensure that RPA vendors can support intelligent and
+attended automation to create synergies in human–machine collaboration. It is essential for
+a provider to understand an organization’s business processes, current use of technologies,
+culture, and available talent, as well as the key challenges that need to be addressed.
+Realize that the Future of Work is Not Really About the Future: The Future of Work concept is
+about the initiatives that companies need to pursue now. IDC believes those organizations that
+embrace technological and organizational changes and cultivate an agile and dynamic work
+environment with dynamic employee experience will gain a competitive edge.
+
+10IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+ABOUT
+UIPATH
+UiPath has a vision to deliver the Fully
+Automated Enterprise™, one where companies
+use automation to unlock their greatest
+potential. UiPath offers an end-to-end platform
+for automation, combining a leading Robotic
+Process Automation (RPA) solution with a
+full suite of capabilities that enable every
+organization to rapidly scale digital business
+operations.
+
+11IDC Buyer Case Study
+BSH Embraces Robotic Process
+Automation with UiPath Platform to
+Accelerate Digitalization
+
+About IDC
+
+International Data Corporation (IDC) is the premier global provider of market intelligence, advisory
+services, and events for the information technology, telecommunications, and consumer technology
+markets. IDC helps IT professionals, business executives, and the investment community make fact-based
+decisions on technology purchases and business strategy. More than 1,100 IDC analysts provide global,
+regional, and local expertise on technology and industry opportunities and trends in more than 110
+countries worldwide. For 50 years, IDC has provided strategic insights to help our clients achieve their key
+business objectives. IDC is a subsidiary of IDG, the world's leading technology media, research, and
+events company.
+
+IDC TURKEY
+Zincirlikuyu Akademiler Sitesi,
+D Blok Daire: 74
+34340 Beşiktaş – İstanbul, Turkey
++90 533 666 55 87
+www.idc.com
+
+IDC Türkiye IDC Türkiye
+
+Copyright Notice:
+External Publication of IDC Information and Data — Any IDC information that is to be used in advertising, press releases, or
+promotional materials requires prior written approval from the appropriate IDC vice president or country manager. A draft of the
+proposed document should accompany any such request. IDC reserves the right to deny approval of external usage for any
+reason. Copyright 2021 IDC. Reproduction without written permission is completely forbidden.
+
+12

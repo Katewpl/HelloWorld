@@ -1,0 +1,16 @@
+5|! lllmet Burp.
+Dale. Jun 30, 2-019
+Sit Amet Corp- Balance Due: $17,310.00
+1938 Amet Avenue
+Lake Cowiohan
+USA
+Bill to
+ACME Inc.
+5171 Dul, Street
+Denver, Colorado
+USA
+Item Quantity Rate Amount
+Services 1 $ 14.425130 $14,425.00
+Subtotal $14,425.00
+Tax [ED-ital, $2,885.00
+Total: 511310.00
